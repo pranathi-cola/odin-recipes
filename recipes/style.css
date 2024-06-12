@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(130, 181, 233);
+}
+
+img {
+    height: auto;
+    width: 700px;
+}
+
+.grid {
+    text-align: center;
+}
+
+.mainheading {
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 45px;
+    color: rgb(1, 5, 59);
+}
+
+.text {
+    font-size: 20px;
+}
+
+.ingredients {
+    font-size: 18px;
+}

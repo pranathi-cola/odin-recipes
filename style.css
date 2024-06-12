@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(222, 193, 126);
+}
+
+.mainheading {
+    color: rgb(87, 71, 6);
+    font-family: Verdana, Tahoma, sans-serif;
+    font-weight: bolder;
+    font-size: 50px;
+    text-align: center;
+}
+
+.links {
+    color: rgb(219, 145, 6);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
