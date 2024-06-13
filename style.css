@@ -2,12 +2,12 @@ body {
     background-color: rgb(235, 126, 126);
 }
 
-a {
-    color:rgb(188, 35, 35);
-}
-
 .mainheading {
     color: rgb(175, 29, 29);
     font-size: 50px;
     text-align: center;
+}
+
+a {
+    color:rgb(188, 35, 35);
 }
