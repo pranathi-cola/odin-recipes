@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(130, 181, 233);
+    background-color: rgb(235, 126, 126);
 }
 
 img {
@@ -12,16 +12,21 @@ img {
 }
 
 .mainheading {
-    font-family:'Times New Roman', Times, serif;
     text-align: center;
     font-size: 45px;
-    color: rgb(1, 5, 59);
+    color: rgb(175, 29, 29);
+}
+
+.subheading {
+    color: rgb(175, 29, 29);
 }
 
 .text {
-    font-size: 20px;
+    font-size: 18px;
+    color: rgb(168, 6, 6);
 }
 
 .ingredients {
     font-size: 18px;
+    color: rgb(168, 6, 6);
 }
